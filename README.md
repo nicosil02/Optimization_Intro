@@ -46,6 +46,7 @@ Los países a analizar son:
 
 En este apartado, se han seleccionado municipalidades con características comunes en términos de **Población, ingresos totales, sectores en los que los serenazgos realizan seguimiento, Gastos totales, porcentaje de victimización e infraestructura para seguridad ciudadana**. En base a estas características se han seleccionado **8** municipalidades.
 
+
 **Variables**
 | **Categoría** | **Variable**                 | **Descripción**                                                        |
 |---------------|------------------------------|------------------------------------------------------------------------|
@@ -54,6 +55,19 @@ En este apartado, se han seleccionado municipalidades con características comun
 | **Outputs**   | Gastos                       | Monto total de gasto ejecutado en el distrito.                         |
 |   **Outputs**            | Porcentaje de Victimización   | Proporción de personas que han sido víctimas de delitos en el distrito.|
 |     **Outputs**          | Infra                         | Disponibilidad de infraestructura relevante (ej. puestos de serenazgo o comisarías). |
+
+
+**Municipalidades y características**
+| Distrito              | Ingresos           | Sectores_t | Infra | Gastos           | Porcentaje Victimización | Población |
+|-----------------------|--------------------|------------|-------|------------------|--------------------------|-----------|
+| CHORRILLOS            | 158,955,561.68    | 4.00       | 31.00 | 136,398,031.24  | 15.62                     | 373.55    |
+| SULLANA               | 160,136,371.26    | 6.00       | 1.00  | 147,215,512.70  | 31.25                     | 195.02    |
+| TORATA                | 150,530,385.41    | 45.00      | 0.00  | 113,920,401.53  | 12.50                     | 7.89      |
+| HUANCAYO              | 149,930,722.83    | 4.00       | 10.00 | 119,763,095.16  | 12.50                     | 125.65    |
+| CAYMA                 | 149,830,383.08    | 11.00      | 2.00  | 85,561,574.87   | 15.62                     | 110.22    |
+| SAN MARTIN DE PORRES  | 145,409,912.79    | 18.00      | 7.00  | 156,226,225.89  | 20.83                     | 794.84    |
+| SAN SEBASTIAN         | 140,761,077.44    | 7.00       | 5.00  | 83,604,252.36   | 25.00                     | 142.03    |
+| IQUITOS               | 129,733,420.60    | 4.00       | 12.00 | 130,819,688.05  | 12.50                     | 155.68    |
 
 Con estas características se ha medido la eficiencia entre las municipalidades homogéneas.
 
