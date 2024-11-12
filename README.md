@@ -6,9 +6,10 @@
 
 En esta tarea, aplicamos métodos de **Optimización, Análisis de Jerarquía Analítica (AHP) y Benchmarking** para la toma de decisiones estratégicas en situaciones complejas. La tarea se distribuye así en tres partes.
 
+**Enlace a la tarea**: https://nicosil02.github.io/Optimization_Intro/Intro_To_Optimization.html
 ----------------------------
 
-##Parte 1: Optimización
+## Parte 1: Optimización
 
 En este apartado resolvemos dos ejercicios de maximización y minimiación para casos hipotéticos.
 
@@ -19,7 +20,7 @@ En este apartado resolvemos dos ejercicios de maximización y minimiación para 
 
 
 --------------------
-##Parte 2: Multicriteria Decision Making.
+## Parte 2: Multicriteria Decision Making.
 
 En este apartado resolvemos un problema para seleccionar el país más viable para realizar estudios de maestria
 
@@ -29,3 +30,23 @@ Los países a analizar son:
 * Canadá
 * EE.UU.
 * Reino Unido
+
+**Criterios para la elección**
+
+| Criterio                  | Descripción                                                                                             |
+|---------------------------|---------------------------------------------------------------------------------------------------------|
+| **Costo de Vida**         | Evalúa el costo aproximado para mantener un nivel de vida cómodo en el país de estudio, incluyendo gastos de vivienda, alimentación, transporte y otros. Un costo de vida alto puede requerir recursos adicionales o becas para cubrir los gastos. La información proviene de [Expatistan](https://www.expatistan.com/es/costo-de-vida/pais/ranking) |
+| **Dificultad del Idioma** | Mide la facilidad o dificultad de aprendizaje y uso del idioma del país, en el contexto de estudios y vida cotidiana. Este criterio incluye la capacidad para entender el material académico y comunicarse de manera eficaz en el entorno local. |
+| **Posibilidad de Estudios Post-Maestría** | Examina la disponibilidad y accesibilidad de programas de doctorado o estudios avanzados en el país de estudio, así como la existencia de oportunidades de investigación o financiamiento. Un país con buenas posibilidades permite una continuidad académica sin necesidad de emigrar nuevamente. La información proviene de [Synergie](https://www.synergie.es/trabajar-en-extranjero/) |
+
+
+
+------------------------------
+## Parte 3: Benchmarking
+
+En este apartado, se han seleccionad municipalidades con características comunes en términos de 
+
+
+
+
+
