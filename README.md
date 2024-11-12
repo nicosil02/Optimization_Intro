@@ -44,7 +44,18 @@ Los países a analizar son:
 ------------------------------
 ## Parte 3: Benchmarking
 
-En este apartado, se han seleccionad municipalidades con características comunes en términos de 
+En este apartado, se han seleccionado municipalidades con características comunes en términos de **Población, ingresos totales, sectores en los que los serenazgos realizan seguimiento, Gastos totales, porcentaje de victimización e infraestructura para seguridad ciudadana**. En base a estas características se han seleccionado **8** municipalidades.
+
+**Variables**
+| **Categoría** | **Variable**                 | **Descripción**                                                        |
+|---------------|------------------------------|------------------------------------------------------------------------|
+| **Inputs**    | Ingresos                     | Recursos financieros del distrito.                                     |
+|               | Sectores_t                   | Número de sectores o áreas en los que se realiza seguimiento operativo.|
+| **Outputs**   | Gastos                       | Monto total de gasto ejecutado en el distrito.                         |
+|               | Porcentaje de Victimización   | Proporción de personas que han sido víctimas de delitos en el distrito.|
+|               | Infra                         | Disponibilidad de infraestructura relevante (ej. puestos de serenazgo o comisarías). |
+
+
 
 
 
