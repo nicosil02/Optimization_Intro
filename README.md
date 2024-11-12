@@ -50,10 +50,10 @@ En este apartado, se han seleccionado municipalidades con características comun
 | **Categoría** | **Variable**                 | **Descripción**                                                        |
 |---------------|------------------------------|------------------------------------------------------------------------|
 | **Inputs**    | Ingresos                     | Recursos financieros del distrito.                                     |
-|               | Sectores_t                   | Número de sectores o áreas en los que se realiza seguimiento operativo.|
+|   **Inputs**             | Sectores_t                   | Número de sectores o áreas en los que se realiza seguimiento operativo.|
 | **Outputs**   | Gastos                       | Monto total de gasto ejecutado en el distrito.                         |
-|               | Porcentaje de Victimización   | Proporción de personas que han sido víctimas de delitos en el distrito.|
-|               | Infra                         | Disponibilidad de infraestructura relevante (ej. puestos de serenazgo o comisarías). |
+|   **Outputs**            | Porcentaje de Victimización   | Proporción de personas que han sido víctimas de delitos en el distrito.|
+|     **Outputs**          | Infra                         | Disponibilidad de infraestructura relevante (ej. puestos de serenazgo o comisarías). |
 
 
 
