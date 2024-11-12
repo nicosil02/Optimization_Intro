@@ -55,7 +55,7 @@ En este apartado, se han seleccionado municipalidades con características comun
 |   **Outputs**            | Porcentaje de Victimización   | Proporción de personas que han sido víctimas de delitos en el distrito.|
 |     **Outputs**          | Infra                         | Disponibilidad de infraestructura relevante (ej. puestos de serenazgo o comisarías). |
 
-
+Con estas características se ha medido la eficiencia entre las municipalidades homogéneas.
 
 
 
