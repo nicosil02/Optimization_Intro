@@ -57,6 +57,9 @@ En este apartado, se han seleccionado municipalidades con características comun
 |     **Outputs**          | Infra                         | Disponibilidad de infraestructura relevante (ej. puestos de serenazgo o comisarías). |
 
 
+Con estas características se ha medido la eficiencia entre las municipalidades homogéneas.
+
+
 **Municipalidades y características**
 | Distrito              | Ingresos           | Sectores_t | Infra | Gastos           | Porcentaje Victimización | Población |
 |-----------------------|--------------------|------------|-------|------------------|--------------------------|-----------|
@@ -69,7 +72,6 @@ En este apartado, se han seleccionado municipalidades con características comun
 | SAN SEBASTIAN         | 140,761,077.44    | 7.00       | 5.00  | 83,604,252.36   | 25.00                     | 142.03    |
 | IQUITOS               | 129,733,420.60    | 4.00       | 12.00 | 130,819,688.05  | 12.50                     | 155.68    |
 
-Con estas características se ha medido la eficiencia entre las municipalidades homogéneas.
 
 
 
